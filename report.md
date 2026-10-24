@@ -193,14 +193,3 @@ Container isolation is an elegant composition of mature Linux kernel primitives�
 6. CVE-2022-0185, CVE-2022-0847 (Dirty Pipe) – Linux kernel vulnerability advisories.
 7. Google gVisor Project – https://gvisor.dev/
 8. Kata Containers – https://katacontainers.io/
-
----
-
-*Prepared for: Operating Systems – Case Study on Docker Containers & Cloud Computing*
-*Topic: Container Isolation*
-
----
-
-> **Note to student:** You may supplement this report with a live demo (e.g., `docker inspect <container>` to view namespace IDs, `cat /proc/<pid>/cgroup` to view cgroup assignments) to demonstrate the concepts in a lab setting.
-
-Good luck with your submission! Let me know if you'd like any section expanded, a slide-deck outline, or a simplified version.
